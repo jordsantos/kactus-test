@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 60,
-    "width": 151,
-    "x": -1,
+    "width": 150,
+    "x": 0,
     "y": 0
   },
   "hasClickThrough": false,
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -31,7 +31,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "079817A9-BD14-4435-9DF9-F7C97C682064"
+      "id": "20250424-5A8C-4BEB-B5C6-712FE92DDDEA"
     },
     {
       "class": "text",
