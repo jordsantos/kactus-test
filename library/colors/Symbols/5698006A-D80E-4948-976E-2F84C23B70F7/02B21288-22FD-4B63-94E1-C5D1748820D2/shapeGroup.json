@@ -16,8 +16,8 @@
     "constrainProportions": true,
     "height": 40,
     "width": 40,
-    "x": 250,
-    "y": 56
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
