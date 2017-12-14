@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 60,
-    "width": 150,
-    "x": 0,
+    "width": 151,
+    "x": -1,
     "y": 0
   },
   "hasClickThrough": false,
@@ -28,6 +28,10 @@
     {
       "class": "shapeGroup",
       "id": "9800E333-340C-4D12-B2A5-C81C3DD90AE1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "079817A9-BD14-4435-9DF9-F7C97C682064"
     },
     {
       "class": "text",
