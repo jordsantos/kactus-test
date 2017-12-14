@@ -31,8 +31,17 @@
   "name": "buttonz/button",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B5E18256-BE92-435A-B440-8158D6EE28BA",
+      "overrideName": "BFA43BAA-36C7-431E-805F-94082B332BC5_symbolID",
+      "value": "E1E11A75-7279-4668-B3F6-8BFA48D8AAC7"
+    }
   ],
   "overrides": {
+    "BFA43BAA-36C7-431E-805F-94082B332BC5": {
+      "symbolID": "E1E11A75-7279-4668-B3F6-8BFA48D8AAC7"
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,
